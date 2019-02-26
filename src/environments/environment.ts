@@ -11,7 +11,8 @@ export const environment = {
     projectId: "muhake-me",
     storageBucket: "muhake-me.appspot.com",
     messagingSenderId: "61386480728"
-  }
+  },
+  tass: true
 };
 
 /*
